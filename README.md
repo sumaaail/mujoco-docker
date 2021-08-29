@@ -1,3 +1,8 @@
+# docker build -t rb-bench:v3 -f Dockerfile .
+
+
+
+
 **Status:** Maintenance (expect bug fixes and minor updates)
 
 # mujoco-py [![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://openai.github.io/mujoco-py/build/html/index.html) [![Build Status](https://travis-ci.org/openai/mujoco-py.svg?branch=master)](https://travis-ci.org/openai/mujoco-py)
